@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Web-blue?style=flat-square)
-![Status](https://img.shields.io/badge/status-Prototype-success?style=flat-square)
+![Status](https://img.shields.io/badge/status-Completed-success?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 </div>
