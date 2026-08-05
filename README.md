@@ -1,3 +1,5 @@
+<div align="center">
+
 <!-- Badges -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -6,6 +8,9 @@
 ![Platform](https://img.shields.io/badge/platform-Web-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Prototype-success?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+</div>
+
 
 # La Redoute Articulated Lamp Product Page
 
