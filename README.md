@@ -179,9 +179,13 @@ The project uses JavaScript modules, import maps and `.glb` files, so it must be
 
 ### Option 1: VS Code Live Server
 
-1. Open the `ThreeJS Projects` folder in VS Code.
-2. Start Live Server.
-3. Access:
+This option requires the **Live Server** extension installed in VS Code.
+
+1. Open VS Code.
+2. Install the **Live Server** extension if it is not installed yet.
+3. Open the `ThreeJS Projects` folder in VS Code.
+4. Start Live Server.
+5. Access:
 
 ```text
 http://127.0.0.1:5500/articulated-lamp-product/paginaInicial.html
